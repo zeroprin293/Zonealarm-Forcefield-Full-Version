@@ -235,3 +235,6 @@ This repository serves as the official landing page for ZoneAlarm ForceField. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ZoneAlarm ForceField today!**
+
+---
+**Last updated:** 2026-09-12 00:56:57 UTC
